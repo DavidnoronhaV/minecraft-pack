@@ -5,3 +5,7 @@
  Minecraft Pack Contains Shaders , Optifine And Forge
  
  See Official Page [Here](https://davidnoronhav.github.io/minecraftpack.html)
+ 
+ Coal Is Meant For Low-End PC
+ Redstone Is Meant For Normal End PC
+ Diamond Is Meant For High End Pc (Coming Soon)
